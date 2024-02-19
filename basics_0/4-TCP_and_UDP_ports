@@ -1,3 +1,3 @@
 #!/usr/bin/env bash
-"""List Only Listening Ports Using netstat Command"""
+#display listening ports
 netstat -l
